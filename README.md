@@ -1,3 +1,9 @@
+1. place colorscheme with {scheme_name}.yaml in root in separate repo
+2. add repo to sources/schemes/list.yaml
+3. php builder.php update && php builder.php
+4. assert {confdir}/base16-shell symlink is in place
+5. assert {nvimdir}/plug/base16-vim symlink is in place
+
 # Base16 Builder PHP
 An example PHP implementation of a base16 builder that follows the conventions described at https://github.com/chriskempson/base16.
 Requires PHP 5.3 or greater.
