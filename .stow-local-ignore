@@ -1,0 +1,14 @@
+\.git
+\.gitignore
+builder\.php
+composer\.json
+composer\.lock
+LICENSE\.md
+README\.md
+schemes
+sources
+sources-schemes-list\.yaml
+sources\.yaml
+src
+templates
+vendor
