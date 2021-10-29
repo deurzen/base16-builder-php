@@ -1,4 +1,4 @@
-vendor
-sources
-templates
-schemes
+/vendor
+/sources
+/templates
+/schemes
